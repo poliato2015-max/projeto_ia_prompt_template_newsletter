@@ -1,4 +1,4 @@
-# 🎯 Desafio Criativo: Prompt Gerador de Newsletter Interna
+# 🎯 Projeto: Prompt Gerador de Newsletter Interna
 
 **Prompt Final construído durante o Desafio Criativo do curso de Inteligência Artificial**
 
